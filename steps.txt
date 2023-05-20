@@ -1,0 +1,7 @@
+step 1:
+npm install -g surge
+
+step 2 : surge login
+
+email:
+password:
